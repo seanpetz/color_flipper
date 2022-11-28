@@ -210,7 +210,8 @@ main {
   margin-bottom: 2.5rem;
 }
 .color {
-  color: var(--clr-primary-5);
+  color: white;
+  -webkit-text-stroke: .5px #fff;
 }
 .btn-hero {
   font-family: var(--ff-primary);
